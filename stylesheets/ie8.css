@@ -1,0 +1,64 @@
+.container {
+	width: 960px;
+}
+.account-form {
+  min-height: 425px;
+  background: #242424 url(../images/account-form.jpg) 50% 0 no-repeat;
+}
+.container-form {
+  width: 760px;
+}
+.account-form-l {
+  float: left;
+  width: 410px;
+  margin: 50px 0 0 10px;
+  background: url(../images/account-form-l.png) 0 12px no-repeat;
+}
+.form-bg {
+	margin-top: 20px;
+}
+.account-form-l ul {
+  width: 320px;
+  margin-left: -40px;
+}
+.account-form-l ul li {
+  background-color: #04a5dd;
+}
+.account-form-r {
+  float: right;
+}
+.header-buttons {
+  margin: 45px 25px 0 0;
+}
+.header-info .online {
+	display: block;
+  border-left: 0;
+  border-top: 1px solid #424242;
+  padding-top: 10px;
+  background-position: 5px 12px;
+}
+.header-info .callback {
+	display: block;
+  border-right: 0;
+  border-bottom: 1px solid #0b0b0b;
+  padding-bottom: 10px;
+  background-position: 5px -2px;
+}
+.header-buttons__item {
+  font-size: 16px;
+  margin: 0 10px;
+  padding: 3px 25px;
+}
+.lnk-txt {
+  float: left;
+  width: 33%;
+  padding-top: 15px;
+}
+.lnk-txt p {
+  font-size: 2.2em;
+  margin-bottom: 22px;
+}
+.lnk-list {
+  float: left;
+  width: 66%;
+}
